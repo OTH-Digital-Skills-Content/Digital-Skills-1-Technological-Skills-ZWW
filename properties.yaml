@@ -1,0 +1,29 @@
+#slack: https://zusatzstudium-wys8878.slack.com
+moodle: https://elearning.oth-regensburg.de/course/view.php?id=5869
+# youtube: https://www.youtube.com/
+# zoom: https://zoom.us/
+credits: OTH Regensburg
+companions:
+  piazza:
+      link: https://piazza.com/class/m1918sb2m0161/
+      title: Fragen & Antworten
+      icon:
+        type: academicons:piazza
+        color: info
+#parent: course/digital-skills-alle-semester-github.netlify.app
+
+auth: 1
+ignorepin: 1994
+
+ignore : 
+- topic-01-welcome
+# - topic-02-it-infra
+# - topic-03-scratch
+# - topic-04-python1
+# - topic-05-python2
+# - topic-06-sql-data
+# - topic-07-web
+# - topic-08-automation
+# - topic-09-cyber-sec
+# - topic-10-review-reflection
+# - topic-12-optional-link

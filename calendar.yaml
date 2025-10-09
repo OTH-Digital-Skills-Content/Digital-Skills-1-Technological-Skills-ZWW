@@ -1,0 +1,47 @@
+title: Semester 1 - Technologische Fähigkeiten SS 24
+weeks:
+  - 2024-03-21:
+      title: Challenge 01
+      type: Präsenztreffen
+  - 2024-04-03:
+      title: Challenge 02
+      type: Tutors
+  - 2023-04-10:
+      title: Challenge 03
+      type: Präsenztreffen
+  - 2024-04-17:
+      title: Abgabe Challenge 02
+      type: Abgabe ELO
+  - 2024-04-24:
+      title: Challenge 04
+      type: Tutors
+  - 2024-05-01:
+      title: Challenge 05
+      type: Tutors
+  - 2024-05-08:
+      title: Workshop micro:bit
+      type: Präsenztreffen
+  - 2024-05-15:
+      title: Challenge 06
+      type: Tutors
+  - 2024-05-22:
+      title: Challenge 07
+      type: Tutors
+  - 2024-05-29:
+      title: Abgabe Challenge 04-06
+      type: Abgabe ELO + GitHub
+  - 2024-06-05:
+      title: Challenge 08
+      type: Tutors
+  - 2024-06-12:
+      title: Challenge 09
+      type: Tutors
+  - 2024-06-19:
+      title: Challenge 10
+      type: Tutors
+  - 2024-06-26:
+      title: Abgabe Challenge 07-10
+      type: Abgabe GitHub
+  - 2024-07-03:
+      title: Rückgabe Lernboxen
+      type: Präsenztreffen
