@@ -1,11 +1,11 @@
 #slack: https://zusatzstudium-wys8878.slack.com
-moodle: https://elearning.oth-regensburg.de/course/view.php?id=5869
+moodle: https://elearning.oth-regensburg.de/course/view.php?id=7328
 # youtube: https://www.youtube.com/
 # zoom: https://zoom.us/
 credits: OTH Regensburg
 companions:
   piazza:
-      link: https://piazza.com/class/m1918sb2m0161/
+      link: https://piazza.com/class/mghyekrgxd82tk/
       title: Fragen & Antworten
       icon:
         type: academicons:piazza
