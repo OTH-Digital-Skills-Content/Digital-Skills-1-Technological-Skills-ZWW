@@ -17,7 +17,7 @@ Copyright © 2015 – 2022, David J. Malan of Harvard University
 
 **Haftungsausschluss bei eigenen Inhalten:**
 
-Die auf dieser Webseite dargestellten Inhalte wurden unter größter Sorgfalt recherchiert und veröffentlicht. Sollten Fehler oder Unstimmigkeiten auftreten, lassen Sie uns dies unter bedisc@oth-regensburg.de wissen. Wir bemühen uns um schnellstmögliche Korrektur, um unsere Inhalte stetig auf dem neuesten Stand zu halten. Für illegale, fehlerhafte oder unvollständige Inhalte, sowie Schäden oder Konsequenzen durch direkte oder indirekte Nutzung der Webseite kann keine Haftung übernommen werden.
+Die auf dieser Webseite dargestellten Inhalte wurden unter größter Sorgfalt recherchiert und veröffentlicht. Sollten Fehler oder Unstimmigkeiten auftreten, lassen Sie uns dies wissen. Wir bemühen uns um schnellstmögliche Korrektur, um unsere Inhalte stetig auf dem neuesten Stand zu halten. Für illegale, fehlerhafte oder unvollständige Inhalte, sowie Schäden oder Konsequenzen durch direkte oder indirekte Nutzung der Webseite kann keine Haftung übernommen werden.
 
 **Haftungsausschluss bei externen Links und Querverweisen auf Internetseiten Dritter:**
 
