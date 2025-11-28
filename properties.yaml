@@ -25,5 +25,6 @@ ignore :
 # - topic-07-web
 # - topic-08-automation
 # - topic-09-cyber-sec
+- topic-10-flask
 # - topic-10-review-reflection
 # - topic-12-optional-link
